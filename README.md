@@ -2,7 +2,7 @@
 
 ### WHOAMI
 <p align="left">
-  <a href="https://nomaru.dev"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/icantdonathan0/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ### 🖥️ Tech Stack
